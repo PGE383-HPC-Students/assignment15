@@ -1,5 +1,7 @@
 os: linux
 language: python
+notifications:
+  email: false
 env:
   - ASSIGNMENT=assignment15
 install:
