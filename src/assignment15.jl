@@ -61,6 +61,9 @@ function read_partitioned_data(basename::String)
     #######################
     #### Add Code Here ####
     #######################
+    #
+    #should return 
+    #strain::DArray, stress::DArray
 end
 
 function compute_toughness_parallel(basename::String)
